@@ -6,7 +6,7 @@ A simple tool to help you convert PDF files to DOCX in batch.
 
 ## Execute
 
-* Place the Python file into the directory that contains the target PDF file.
+* Place the Python file into the directory that contains the target PDF files.
 
 * Then execute: <br>
 `python pdf2word_Converter.py`
